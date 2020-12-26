@@ -1,8 +1,6 @@
 # SF-checker
 SF-checker Stand For SymFony-checker  
 
-<<<<<<< HEAD
-Simply check if endpoid  > /_profiler exist or not :D Very Simple: 
 =======
 just check if endpoint  **/_profiler** exist or not Very Simple :) 
 
@@ -23,4 +21,3 @@ python3 SF-checker.py -u https://www.google.com
 **For List Of Websites:-**
 
 python3 SF-checker.py -U sites.txt
->>>>>>> eb0a1696de3096b7fe81364e676c3640fdb83689
